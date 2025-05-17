@@ -48,6 +48,12 @@ What2Wear is more than just a weather app — it combines accurate weather forec
 
 Open your browser at `http://localhost:5173` (or the port Vite shows) and search for any city to get the current weather and enjoy beautiful background media.
 
+## Future Improvements
+
+- Add user authentication to save and manage favorite locations.
+- Expand outfit recommendations with more variety and options.
+- Implement future outfit planning based on extended weather forecasts.
+
 ## Credits
 
 - Weather data from [OpenWeather](https://openweathermap.org/)
