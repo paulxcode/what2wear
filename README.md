@@ -48,6 +48,11 @@ What2Wear is more than just a weather app — it combines accurate weather forec
 
 Open your browser at `http://localhost:5173` (or the port Vite shows) and search for any city to get the current weather and enjoy beautiful background media.
 
+## Known Problems
+
+- On some browsers, such as Brave, the app may not detect the user's location automatically.
+- Location detection works reliably on Chrome and other mainstream browsers.
+
 ## Future Improvements
 
 - Add user authentication to save and manage favorite locations.
