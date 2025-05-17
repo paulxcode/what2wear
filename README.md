@@ -1,15 +1,16 @@
 
-# React Weather App
+# About What2Wear
 
-A modern weather application built with React, Vite, and Tailwind CSS that fetches real-time weather data from the OpenWeather API. The app features a clean and responsive UI, with background images and videos sourced from Pexels and Unsplash.
+What2Wear is more than just a weather app — it combines accurate weather forecasts with smart clothing recommendations tailored to the current conditions. Whether it's sunny, rainy, chilly, or humid, What2Wear helps you decide the perfect outfit for the day so you can stay comfortable and prepared no matter the weather.
 
 ## Features
 
 - Search weather by city name
 - Display current temperature, weather conditions, humidity, and wind speed
+- Outfit suggestions based on the current weather to help you decide what to wear
 - Responsive design using Tailwind CSS
 - Fast development and build with Vite
-- Beautiful backgrounds from Pexels and Unsplash
+- Beautiful backgrounds and videos sourced from Pexels and Unsplash
 
 ## Technologies Used
 
@@ -24,11 +25,11 @@ A modern weather application built with React, Vite, and Tailwind CSS that fetch
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/yourusername/react-weather-app.git
+   git clone https://github.com/paulxcode/what2wear.git
    ```
 2. Navigate into the project directory
    ```bash
-   cd react-weather-app
+   cd what2wear
    ```
 3. Edit the `apikey.js` with your API key from OpenWeatherAPI:
    ```js
