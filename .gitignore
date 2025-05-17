@@ -1,4 +1,8 @@
 node_modules/
 build/
 .env
+<<<<<<< HEAD
 apikey.js
+=======
+apikey.js
+>>>>>>> 8e53386da50b22841fc62d9ad62be618187310e7
